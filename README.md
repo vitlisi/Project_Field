@@ -52,7 +52,7 @@ Ensure the following MATLAB toolboxes are installed:
 - Robotics System Toolbox  
 - Navigation Toolbox  
 - Model Predictive Control Toolbox  
-- Sensor Fusion and Tracking Toolbox (if used)
+
  
 ---
  
